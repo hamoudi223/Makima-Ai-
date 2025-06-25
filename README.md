@@ -7,7 +7,7 @@ Ce plugin permet de discuter avec **Makima** (de *Chainsaw Man*) dans un bot Wha
 - Réponses en français via OpenAI GPT-4.
 - Ton poli, mystérieux, respectueux.
 - Envoie un sticker Makima après chaque réponse.
-- Traite le numéro `+22395064497` comme son maître.
+- Traite le numéro `+2250747869771` comme son maître.
 
 ### 📦 Dépendances
 
@@ -43,4 +43,4 @@ require("./commands/makima");
 
 ---
 
-Créé par **Moudy**, géré par Makima. 🖤
+Créé par **thatkid**, géré par Makima. 🖤
